@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0E1A14"/>
+  <g transform="translate(56 56) scale(4)" fill="none" stroke-width="7" stroke-linecap="round">
+    <path d="M52.98 12.12 A38 38 0 0 1 85.11 35.46" stroke="#3A6EA8"/>
+    <path d="M86.95 41.13 A38 38 0 0 1 74.68 78.90" stroke="#C9A84C"/>
+    <path d="M69.85 82.40 A38 38 0 0 1 30.15 82.40" stroke="#D4823A"/>
+    <path d="M25.32 78.90 A38 38 0 0 1 13.05 41.13" stroke="#B85C3A"/>
+    <path d="M14.89 35.46 A38 38 0 0 1 47.02 12.12" stroke="#1D6B5E"/>
+  </g>
+  <g fill="#C9A84C">
+    <circle cx="256" cy="104" r="13.6"/>
+    <circle cx="400.6" cy="209" r="13.6"/>
+    <circle cx="345.3" cy="379" r="13.6"/>
+    <circle cx="166.7" cy="379" r="13.6"/>
+    <circle cx="111.4" cy="209" r="13.6"/>
+  </g>
+  <text x="256" y="312" text-anchor="middle" font-family="Amiri, 'Noto Naskh Arabic', serif" font-weight="700" font-size="168" fill="#C9A84C">ف</text>
+</svg>

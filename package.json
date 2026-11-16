@@ -1,0 +1,36 @@
+{
+  "name": "fasl",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fasl · فَصْل — The Five Chapters of Your Day. Islamic prayer companion (responsive web app / PWA).",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/local-notifications": "^8.3.1",
+    "@fontsource/amiri": "^5.3.0",
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/noto-naskh-arabic": "^5.3.0",
+    "adhan": "^4.4.6",
+    "leaflet": "^1.9.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2",
+    "@types/leaflet": "^1.9.22",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

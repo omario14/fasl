@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fasl</string>
+    <string name="title_activity_main">Fasl</string>
+    <string name="package_name">app.fasl.prayer</string>
+    <string name="custom_url_scheme">app.fasl.prayer</string>
+    <string name="widget_chapter_desc">The prayer chapter you are in, with a live countdown</string>
+    <string name="widget_day_desc">Live status and today’s five prayer times</string>
+</resources>

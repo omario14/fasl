@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Status-bar icon: the five-arc ring with a centre dot (white, tinted by the system). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="100" android:viewportHeight="100">
+    <group>
+        <path android:strokeColor="#FFFFFFFF" android:strokeWidth="11" android:strokeLineCap="round"
+            android:pathData="M52.98,12.12 A38,38 0 0,1 85.11,35.46" />
+        <path android:strokeColor="#FFFFFFFF" android:strokeWidth="11" android:strokeLineCap="round"
+            android:pathData="M86.95,41.13 A38,38 0 0,1 74.68,78.9" />
+        <path android:strokeColor="#FFFFFFFF" android:strokeWidth="11" android:strokeLineCap="round"
+            android:pathData="M69.85,82.4 A38,38 0 0,1 30.15,82.4" />
+        <path android:strokeColor="#FFFFFFFF" android:strokeWidth="11" android:strokeLineCap="round"
+            android:pathData="M25.32,78.9 A38,38 0 0,1 13.05,41.13" />
+        <path android:strokeColor="#FFFFFFFF" android:strokeWidth="11" android:strokeLineCap="round"
+            android:pathData="M14.89,35.46 A38,38 0 0,1 47.02,12.12" />
+        <path android:fillColor="#FFFFFFFF"
+            android:pathData="M50,38 a12,12 0 1,1 0,24 a12,12 0 1,1 0,-24z" />
+    </group>
+</vector>
